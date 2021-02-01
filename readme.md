@@ -4,7 +4,7 @@ UnescapeString unescapes entities like `"&lt;"` to become "<". It unescapes a la
 
 install with
 
-`go install github.com/dgparker/unescape`
+`go install github.com/dgparker/unescape/cmd/unescape`
 
 run with
 
